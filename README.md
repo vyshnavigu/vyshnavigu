@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technical Writing
 - 🌱 I’m currently learning API documentation
 - 💞️ I’m looking to collaborate on technical documentation
-- 📫 Reach me at vyshnavig28@gmail.com
+- 📫 Reach me at vyshnavigu@gmail.com
 
 <!---
 vyshnavigu/vyshnavigu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
